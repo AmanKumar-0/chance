@@ -1,0 +1,81 @@
+[{
+    "userId": 1,
+    "userProfile": "1.jpg",
+    "connectedOn": "Wed Aug 10 2022",
+    "userName": "angrycar",
+    "isAnonymous": true,
+    "messages": [{"text": "hello","time": "9:35","author":"me"}, {"text": "hello","time": "9:00","author":"me"}]
+    },
+    {
+        "userId": 2,
+        "userProfile": "2.jpg",
+        "connectedOn": "Tue Aug 08 2022",
+        "userName": "fastapple",
+        "isAnonymous": false,
+        "messages": [{"text": "hello","time": "9:35","author":"me"}, {"text": "Let's meet up Tommorow","time": "9:10","author":"me"}]
+    },
+    {
+        "userId": 3,
+        "userProfile": "3.jpg",
+        "connectedOn": "Tue Aug 06 2022",
+        "userName": "fastappccale",
+        "isAnonymous": false,
+        "messages": [{"text": "hello","time": "9:35","author":"me"}, {"text": "how's you doing","time": "9:20","author":"me"}]
+    },
+    {
+        "userId": 4,
+        "userProfile": "4.jpg",
+        "connectedOn": "Tue Aug 01 2022",
+        "userName": "HungryDog",
+        "isAnonymous": true,
+        "messages": [{"text": "hello","time": "9:35","author":"me"}, {"text": "Woww","time": "9:25","author":"me"}]
+    },
+    {
+        "userId": 5,
+        "userProfile": "5.jpg",
+        "connectedOn": "Tue Aug 09 2022",
+        "userName": "SweetPotato",
+        "isAnonymous": false,
+        "messages": [{"text": "hello","time": "9:35","author":"me"}, {"text": "That's really nice","time": "9:15","author":"you"}]
+    },
+    {
+        "userId": 6,
+        "userProfile": "6.jpg",
+        "connectedOn": "Tue Aug 09 2022",
+        "userName": "Aman",
+        "isAnonymous": false,
+        "messages": [{"text": "hello","time": "9:35","author":"me"}, {"text": "Damm","time": "10:36","author":"you"}]
+    },
+    {
+        "userId": 7,
+        "userProfile": "7.jpg",
+        "connectedOn": "Tue Aug 09 2022",
+        "userName": "Angelina",
+        "isAnonymous": false,
+        "messages": [{"text": "hello","time": "9:35","author":"me"}, {"text": "what would you prefer","time": "11:36","author":"me"}]
+    },
+    {
+        "userId": 8,
+        "userProfile": "8.jpg",
+        "connectedOn": "Wed Aug 10 2022",
+        "userName": "Vishal",
+        "isAnonymous": true,
+        "messages": [{"text": "hello","time": "9:35","author":"me"}, {"text": "Done","time": "12:36","author":"me"}]
+    },
+    {
+        "userId": 9,
+        "userProfile": "9.jpg",
+        "connectedOn": "Tue Aug 09 2022",
+        "userName": "Sinha",
+        "isAnonymous": false,
+        "messages": []
+    },
+    {
+        "userId": 10,
+        "userProfile": "10.jpg",
+        "connectedOn": "Tue Aug 12 2022",
+        "userName": "TalentlessKid",
+        "isAnonymous": true,
+        "messages": []
+    }
+]

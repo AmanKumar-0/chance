@@ -1,0 +1,23 @@
+.connection > p {
+    margin-top: 5px;
+    text-align: center;
+    color: grey;
+    font-size: 11px;
+  }
+  .img_container{
+    position: relative;
+  }
+.img_container > img{
+    height: 60px;
+    width: 60px;
+    object-fit: fill;
+    border-radius: 50%;
+    margin-bottom: 0px;
+}
+.dot {
+    position: absolute;
+    border: 5px solid #eb5757;
+    border-radius: 100%;
+    top: 25px;
+    right: -5px;
+}
