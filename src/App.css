@@ -20,7 +20,7 @@ section.connection__section {
 
 .connection_count{
   background-color: #f29a49f5;
-  padding: 0.2rem 0.3rem;
+  padding: 0.1rem 0.3rem;
     font-size: 12px;
     font-weight: 500;
     line-height: 1;
@@ -51,7 +51,7 @@ section.connection__section {
 }
 .messages_count{
   background-color: #f29a49;
-  padding: 0.2rem 0.3rem;
+  padding: 0.1rem 0.3rem;
     font-size: 12px;
     font-weight: 500;
     line-height: 1;
@@ -62,7 +62,7 @@ section.connection__section {
 .messages__search > input {
   border: none;
   outline: none;
-  width: 122px;
+  width: 90px;
 }
 
 
