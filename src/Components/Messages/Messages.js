@@ -27,7 +27,7 @@ const Messages = ({ data }) => {
 
           {data.messages[length].author === "you" ? (
             <span className="chat_your_turn">
-              <i class="fa-solid fa-location-arrow"></i>your Turn
+              <i className="fa-solid fa-location-arrow"></i>your Turn
             </span>
           ) : (
             <span className="chat_unreads">{data.messages.length}</span>
